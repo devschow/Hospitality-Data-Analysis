@@ -10,7 +10,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Technology Stack 🔧
-Microsoft Power BI 📈
+- Microsoft Power BI 📈
 
 ## Mock-up Dashboard
 ![Mockup Dashboard](https://github.com/devschow/Hospitality-Domain-Data-Analysis/blob/main/mock%20up%20dashboard_atliq%20grands.png?raw=true)
